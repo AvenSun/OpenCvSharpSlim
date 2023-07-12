@@ -3,10 +3,13 @@
 
 - This project provides the slim build of OpenCvSharp native library .
 
-- Currently there're binary packages for OpenCvSharp  **2.4.10** and ****.
+- Currently there're binary packages for OpenCvSharp  **2.4.10**, **3.4.20**  and **4.8.0**.
+
+- The unit tests (339) for the most commonly used functions have all passed.
 
 - Webp, Tiff reading and saving are not included.
 
+<img src="/images/xunit.jpg" />
 
 # Size
 |package|size|
@@ -14,7 +17,9 @@
 |[OpenCvSharpSlim-2.4.10-x86.zip](https://github.com/AvenSun/OpenCvSlim/raw/master/OpenCvSharpSlim-2.4.10-x86.zip)  (x86)| 1.3MB |
 |[OpenCvSharpSlim-2.4.10-x64.zip](https://github.com/AvenSun/OpenCvSlim/raw/master/OpenCvSharpSlim-2.4.10-x64.zip)  (x64)| 1.5MB |
 |[OpenCvSharpSlim-3.4.20-x86.zip](https://github.com/AvenSun/OpenCvSlim/raw/master/OpenCvSharpSlim-3.4.20-x86.zip)  (x86)| 1.9MB |
-|[OpenCvSharpSlim-2.4.10-x64.zip](https://github.com/AvenSun/OpenCvSlim/raw/master/OpenCvSharpSlim-3.4.20-x64.zip)  (x64)| 2.5MB |
+|[OpenCvSharpSlim-3.4.20-x64.zip](https://github.com/AvenSun/OpenCvSlim/raw/master/OpenCvSharpSlim-3.4.20-x64.zip)  (x64)| 2.5MB |
+|[OpenCvSharpSlim-4.8.0-x86.zip](https://github.com/AvenSun/OpenCvSlim/raw/master/OpenCvSharpSlim-4.8.0-x86.zip)  (x86)| 2.2MB |
+|[OpenCvSharpSlim-4.8.0-x64.zip](https://github.com/AvenSun/OpenCvSlim/raw/master/OpenCvSharpSlim-4.8.0-x64.zip)  (x64)| 2.9MB |
 
 # Usage 
 
